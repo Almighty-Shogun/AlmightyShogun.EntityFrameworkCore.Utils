@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository has been archived and the `AlmightyShogun.EntityFrameworkCore.Utils` package has been transfered to [Almighty-Shogun/NuGetPackages](https://github.com/Almighty-Shogun/NuGetPackages)
+
 # Entity Framework Core Utils
 A simple C# library that add extensions to Entity Framework Core
 
